@@ -1,4 +1,3 @@
-#include <iomanip>
 #include <iostream>
 
 void printTypesMemoryConsumption(std::ostream& out)
